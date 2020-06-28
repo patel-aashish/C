@@ -1,4 +1,4 @@
-# my-c
+# C
 
 This repo contains the C code for the 
 things I practise from the book or any 
